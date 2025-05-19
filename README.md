@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @IamDebarchan01
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...software development
+- 🌱 I’m currently learning ...Full stack java with devops
 - 📫 How to reach me ...iamdebarchan25@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ⚡ Fun fact: ... 
 
 <!---
 IamDebarchan01/IamDebarchan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
